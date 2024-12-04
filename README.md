@@ -1,4 +1,4 @@
 # Demo
 
 Some description!
-a new one is published toda.
+a new one is published today.
