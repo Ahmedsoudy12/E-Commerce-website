@@ -1,1 +1,0 @@
-print("My cart is full")
